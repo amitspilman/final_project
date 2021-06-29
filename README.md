@@ -31,3 +31,11 @@ finalProject.unitypackage
 The project is ready for work
 
 ![image](https://user-images.githubusercontent.com/86656822/123787266-4616b080-d8e3-11eb-9de4-bfde85fa4741.png)
+
+
+
+screenshots & vids
+
+https://user-images.githubusercontent.com/49113717/123788483-be31a600-d8e4-11eb-90aa-3f960e1b1271.mp4
+
+![WhatsApp Image 2021-06-29 at 14 19 30](https://user-images.githubusercontent.com/49113717/123788777-149ee480-d8e5-11eb-8911-8d79ac9dae4a.jpeg)
