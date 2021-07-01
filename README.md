@@ -44,7 +44,7 @@ if needed you can simply download "senso-driver.19.04.2019" folder from https://
 *Another way (instead of section 2-4) is to simply replace the "Assets" folder located in GitHub, with the "Assets" folder located in the new project.
 
 
-screenshots & vids
+**screenshots & vids**
 
 https://user-images.githubusercontent.com/49113717/123788483-be31a600-d8e4-11eb-90aa-3f960e1b1271.mp4
 
